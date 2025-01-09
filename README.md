@@ -103,5 +103,5 @@ Confidence Scores: Indicate the likelihood of the classification.
 This project combines environmental awareness with technology to address waste management challenges. Through automated detection and classification, we can better manage biodegradable and non-biodegradable waste, contributing to a sustainable future.
 
 ![alt text](Solid-Waste-1.jpg)
-![alt text](OIP-1.jpg)
+![alt text](OIP-1.jpg) ![alt text](Solid-Waste-2.jpg)
 ![alt text](m-1.jpg)
